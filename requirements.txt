@@ -1,0 +1,7 @@
+python-dotenv
+pandas
+langchain
+langchainhub
+langchain-cohere
+azure-search-documents==11.6.0b7
+azure-identity
