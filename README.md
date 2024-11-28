@@ -1,5 +1,4 @@
 #### Things to explore
-- Plan and Solve
 - Reranking 
 - ROI
 
